@@ -1,4 +1,4 @@
-import SingleTechnology from "./SingleTechnology"
+import SingleTechnology from "@/components/technologies/SingleTechnology"
 import technologies from '../../../data/technologies'
 
 export default function TechStack() {

@@ -1,4 +1,4 @@
-import SingleCodingProject from "./SingleCodingProject"
+import SingleCodingProject from "@/components/coding-projects/SingleCodingProject"
 import codingProjects from '../../../data/codingProjects'
 
 export default function CodingProjects() {

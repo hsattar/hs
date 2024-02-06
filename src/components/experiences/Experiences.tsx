@@ -1,4 +1,4 @@
-import SingleExperience from "./SingleExperience"
+import SingleExperience from "@/components/experiences/SingleExperience"
 import experiences from '../../../data/experiences'
 
 export default function Experiences() {
